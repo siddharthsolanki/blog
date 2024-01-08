@@ -1,3 +1,4 @@
 # ignore all keynote files with .key
 
+*.key
 **/.key
